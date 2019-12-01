@@ -216,6 +216,7 @@ main#home h1 {
 .about-info .bio-image {
 	grid-area: bioimage;
 	background-size: cover;
+	/* background: url("../images/myPics.jpg"); */
 	width: 250px;
 	height: 250px;
 	margin: auto;
